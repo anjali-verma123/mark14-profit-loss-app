@@ -7,6 +7,10 @@ body{
 	--blue-600: #2563eb;
 	--black-800: #22252a;
 }
+main {
+	display: flex;
+	height: 100vh;
+}
 
 button {
 	border: none;
