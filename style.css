@@ -24,7 +24,7 @@ button {
 	margin-top: 1rem;
 }
 .leftside {
-	background-color: var(--black-800);
+	background-color: var(--primary-color);
 	width: 50%;
 	text-align: center;
 	padding-top: 25vh;
