@@ -23,6 +23,12 @@ button {
 	width: 25rem;
 	margin-top: 1rem;
 }
+.leftside {
+	background-color: var(--black-800);
+	width: 50%;
+	text-align: center;
+	padding-top: 25vh;
+}
 .rightside {
 	background-color: var(--black-900);
 	width: 50%;
